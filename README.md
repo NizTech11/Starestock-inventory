@@ -1,4 +1,4 @@
-# Shop3 Inventory, POS & Profit Analytics
+# StareStock Inventory, POS & Profit Analytics
 
 A complete web-based inventory management, point-of-sale (POS), supplier & purchase order tracking, and profit analytics system built for **Shop3**.
 
